@@ -1,5 +1,7 @@
-# koa based http server for CV lab (face detecting, face comparing, Chinese plate number recognition)
-> Vincent Yang (shineyjg@gmail.com)
+# CvWebServer
+> koa based http server for CV lab (face detecting, face comparing, Chinese plate number recognition)
+Vincent Yang (shineyjg@gmail.com)
+this project is the submodule of https://github.com/shineyjg/CvLab
 
 # install dependencies
   npm install
