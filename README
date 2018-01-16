@@ -1,0 +1,17 @@
+# koa based http server for CV lab (face detecting, face comparing, Chinese plate number recognition)
+> Vincent Yang (shineyjg@gmail.com)
+
+# install dependencies
+  npm install
+  or
+  yarn
+
+#run dependencies
+  redis
+  the redis parameters must be configured before running. see redisConfig in main.js
+  
+# run
+  node main.js
+
+# open in browser
+  http://127.0.0.1:8100
